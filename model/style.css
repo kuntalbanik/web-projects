@@ -1,0 +1,16 @@
+* {
+    font-family: Montserrat, Arial;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+p {
+    text-align: center;
+}
+p span {
+    text-decoration: underline;
+}
