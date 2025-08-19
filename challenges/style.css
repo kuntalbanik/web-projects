@@ -1,0 +1,160 @@
+.subscribe-button {
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    vertical-align: top;
+    /* Always use transition on   Base CSS style  */
+    transition: opacity 0.2s;
+  }
+  .subscribe-button:hover {
+    opacity: 0.8;
+  }
+  .subscribe-button:active {
+    opacity: 0.5;
+  }
+  
+  .join-button {
+    background-color: white;
+    color: rgb(10, 80, 165);
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: background-color 0.2s;
+  }
+  .join-button:hover {
+    background-color: rgb(41, 118, 216);
+    color: white;
+  }
+  .join-button:active {
+    opacity: 0.7;
+  }
+  
+  .tweet-button {
+    background-color: rgb(28, 150, 238);
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 18px;
+    cursor: pointer;
+    transition: box-shadow 0.2;
+  }
+  
+  .tweet-button:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  }
+  
+  .request {
+    background-color: black;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 110px;
+    /* border-radius: 18px; */
+    cursor: pointer;
+  }
+  .cart {
+    background-color: rgb(255, 216, 20);
+    /* color: white; */
+    border: none;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  .signup {
+    background-color: rgb(46, 164, 79);
+    color: white;
+    font-weight: bold;
+    border: none;
+    height: 40px;
+    width: 90px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .started {
+    background-color: rgb(121, 82, 179);
+    color: white;
+    font-weight: bold;
+    border: none;
+    height: 40px;
+    width: 105px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 5px;
+  }
+  .download {
+    background-color: white;
+    color: rgb(108, 117, 125);
+    /* color: white; */
+    font-weight: bold;
+    border: solid 1px;
+    height: 40px;
+    width: 105px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .company {
+    background-color: rgb(10, 102, 194);
+    color: white;
+    font-weight: bold;
+    border: solid 1px;
+    height: 40px;
+    width: 220px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  .save {
+    background-color: white;
+    color: rgb(10, 80, 165);
+    font-weight: bold;
+    border: solid 1px;
+    height: 40px;
+    width: 80px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
+
+/* ---------------------------------------- */
+.text-one {
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.google-logo {
+    width: 300px;
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 180px;
+}
+
+.google-search {
+    width: 600px;
+    font-size: 1rem;
+    padding: 10px;
+    padding-left: 20px;
+    border: none;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #505050;
+    border-radius: 30px;
+}
+
